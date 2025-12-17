@@ -51,7 +51,7 @@ timeFormat: "2006-01-02 15:04:05"  # 完整时间格式
 # 作者信息
 author: Curry-zhang               # 作者名称
 email: z13869291731@163.com          # 联系邮箱
-description: "少女祈祷中..."     # 网站描述
+description: "欢迎来到我的网站，此博客由【Hugo】来进行搭建，主要分享个人生活和学习笔记"     # 网站描述
 subtitle: "少女祈祷中..."        # 网站副标题
 
 # 横幅图片（显示在网站顶部的大图）
@@ -173,7 +173,7 @@ summary:
 triangle_badge:
   enable: true         # 是否启用三角徽章
   icon: github          # 图标类型（与 social 配置中的图标相同）
-  link: https://github.com/D-Sketon/hugo-theme-reimu  # 点击徽章跳转的链接
+  link: https://github.com/Curry-ZCR  # 点击徽章跳转的链接
 
 # RSS 订阅输出配置
 rss:
