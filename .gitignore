@@ -2,3 +2,5 @@ public
 resources
 .hugo_build.lock
 hugo.exe
+.kiro\specs\blog-config-tool
+blog-config-tool
