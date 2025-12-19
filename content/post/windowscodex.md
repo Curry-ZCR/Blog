@@ -5,7 +5,7 @@ draft: false
 tags:
   - codex，AI，教程
 cover: 'avatar/1.webp'
-description: '在Windows上面配置codex，包含终端和vscode
+description: '在Windows上面配置codex，包含终端和vscode'
 ---
 
 # **切换到 “镜像 (Mirrored)” 网络模式**
