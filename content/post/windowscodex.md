@@ -10,6 +10,8 @@ description: '在Windows上面配置codex，包含终端和vscode'
 
 # **切换到 “镜像 (Mirrored)” 网络模式**
 
+**注意配置之前请先安装Windows上的WSL**
+
 ## 1. 在 Windows 用户目录下（例如 C:\Users\你的用户名\ ）创建或编辑文件 .wslconfig 。
 
 ## 2. 在文件中加入类似内容：
@@ -48,7 +50,7 @@ npm -v # Should print "11.6.2".
 
 ## 安装codex
 
-```json
+```cmd
 npm i -g @openai/codex
 ```
 
@@ -58,10 +60,10 @@ npm i -g @openai/codex
 
 ### 1.在 Windows 上启动 VS Code，确保已安装 “Remote – WSL” 扩展（或 “WSL” 扩展包）以便支持WSL 模式。
 
-![image.png](attachment:39872f63-2c54-4df7-83b6-c585a1fb606b:image.png)
+![image-20251219161143276](../../../../job/java/picture/image-20251219161143276.png)
 
 **2.在 VS Code 中点击左下角绿色的 “><” 或 “WSL” 图标，选择 “Remote-WSL: 新建窗口” 或**
 
 **“Connect to WSL”。**
 
-**3.如果你的项目在 Windows 的 D:\project ，在 WSL 中可以通过 /mnt/d/project 来访 问**
+**3.如果你的项目在 Windows 的 D:\project ，在 WSL 中可以通过 /mnt/d/project 来访问**
