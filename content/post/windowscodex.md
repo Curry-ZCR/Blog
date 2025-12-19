@@ -60,7 +60,7 @@ npm i -g @openai/codex
 
 ### 1.在 Windows 上启动 VS Code，确保已安装 “Remote – WSL” 扩展（或 “WSL” 扩展包）以便支持WSL 模式。
 
-![image-20251219161143276](../../../../job/java/picture/image-20251219161143276.png)
+![image](static/images/content_images/windowscodex/image.png)
 
 **2.在 VS Code 中点击左下角绿色的 “><” 或 “WSL” 图标，选择 “Remote-WSL: 新建窗口” 或**
 
