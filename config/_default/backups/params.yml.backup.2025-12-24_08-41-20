@@ -702,13 +702,13 @@ service_worker:
 # Live2D 看板娘（新版）
 # 实验性功能
 live2d:
-  enable: false # 是否启用 Live2D
+  enable: true # 是否启用 Live2D
   position: left # 显示位置：left（左侧）或 right（右侧）
 
 # Live2D Widgets 看板娘（旧版）
 # 实验性功能
 live2d_widgets:
-  enable: true # 是否启用 Live2D Widgets
+  enable: false # 是否启用 Live2D Widgets
   position: left # 显示位置：left（左侧）或 right（右侧）
 
 # Pace 页面加载进度条
