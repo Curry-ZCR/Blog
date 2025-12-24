@@ -702,7 +702,7 @@ service_worker:
 # Live2D 看板娘（新版）
 # 实验性功能
 live2d:
-  enable: true # 是否启用 Live2D
+  enable: false # 是否启用 Live2D
   position: left # 显示位置：left（左侧）或 right（右侧）
 
 # Live2D Widgets 看板娘（旧版）
